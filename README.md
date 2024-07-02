@@ -1,7 +1,12 @@
 <a href="https://www.facebook.com/AdnaNation.Me">
 <img src="https://i.ibb.co/9hhNyzZ/Blue-and-White-Gradient-Web-Developer-Linked-In-Article-Cover-Image.gif" />
 </a>
+<div align="center">
+
+ <h1>Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I'm Azizul Islam, A Programmer and Developer <p></p></h1>
+</div>
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=AdnaNation&label=Profile%20views&color=0e75b6&style=flat" alt="shakilahmedatik" /> </span> 
+
 
 ## :mailbox: Reach me out
 
