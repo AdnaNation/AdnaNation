@@ -1,7 +1,12 @@
 <a href="https://www.facebook.com/AdnaNation.Me">
 <img src="https://i.ibb.co/9hhNyzZ/Blue-and-White-Gradient-Web-Developer-Linked-In-Article-Cover-Image.gif" />
 </a>
-
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,css,bootstrap,mui,tailwind,github,figma,git,html,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb,firebase,nextjs" /><br>
+</div>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
