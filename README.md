@@ -29,5 +29,14 @@
   
 </div>
 
+## :eyes: Current overview
+<hr>
+
+### 🌱 I’m Learning - Next.js. 
+### 👯 I’m looking - To collaborate on open source projects. 
+
+
+
+
 
 
