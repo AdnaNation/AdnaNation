@@ -4,7 +4,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,css,bootstrap,mui,tailwind,github,figma,git,html,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=react,css,tailwind,github,figma,git,html,vscode,mambaui,daisyui" /><br>
     <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb,firebase,nextjs" /><br>
 </div>
 <h2 align="center">⚡ Stats ⚡</h2>
