@@ -1,6 +1,7 @@
 <a href="https://www.facebook.com/AdnaNation.Me">
 <img src="https://i.ibb.co/9hhNyzZ/Blue-and-White-Gradient-Web-Developer-Linked-In-Article-Cover-Image.gif" />
 </a>
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=AdnaNation&label=Profile%20views&color=0e75b6&style=flat" alt="shakilahmedatik" /> </span> 
 
 ## :mailbox: Reach me out
 
