@@ -1,5 +1,5 @@
 <a href="https://www.facebook.com/AdnaNation.Me">
-<img src="https://i.ibb.co/9hhNyzZ/Blue-and-White-Gradient-Web-Developer-Linked-In-Article-Cover-Image.gif" />
+<img src="https://i.ibb.co/9c6CMgV/Blue-and-White-Gradient-Web-Developer-Linked-In-Article-Cover-Image-1.gif" />
 </a>
 <div align="center">
 
