@@ -34,6 +34,16 @@
   
 </div>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AdnaNation&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AdnaNation&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
 ## :eyes: Current overview
 <hr>
 
