@@ -39,11 +39,11 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AdnaNation&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<div align="center">
- ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-</div>
+ ### ✍️ Random Dev Quote
+![<p align="center"></p>](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)[]
+
+
 
 
 ## :eyes: Current overview
