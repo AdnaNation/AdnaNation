@@ -12,7 +12,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AdnaNation&label=Profile%20views&color=7B2FF7&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/AdnaNation?style=for-the-badge&logo=github&color=00F5D4&labelColor=0d1117" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/AdnaNation?style=for-the-badge&logo=starship&color=7B2FF7&labelColor=0d1117" alt="Stars" />
 </p>
 
 <br/>
@@ -67,27 +66,24 @@ const azizul = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdnaNation&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnaNation&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=AdnaNation&theme=tokyonight&hide_border=true&border_radius=12&currStreakLabel=00F5D4&ring=7B2FF7&fire=FF6B6B" alt="Streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdnaNation&theme=tokyo-night&hide_border=true&area=true&radius=12&custom_title=Contribution%20Graph" alt="Activity graph" />
+  <a href="https://github.com/AdnaNation?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-7B2FF7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repositories" />
+  </a>
+  <a href="https://github.com/AdnaNation?tab=followers">
+    <img src="https://img.shields.io/github/followers/AdnaNation?style=for-the-badge&logo=github&color=00F5D4&labelColor=0d1117" alt="Followers" />
+  </a>
+  <a href="https://github.com/AdnaNation?tab=stars">
+    <img src="https://img.shields.io/badge/Starred-Repos-FFD166?style=for-the-badge&logo=starship&logoColor=white&labelColor=0d1117" alt="Starred" />
+  </a>
 </p>
 
-<br/>
-
-<!-- ═══════════════ SNAKE (needs the GitHub Action, see snake.yml) ═══════════════ -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdnaNation/AdnaNation/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdnaNation/AdnaNation/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/AdnaNation/AdnaNation/output/github-snake-dark.svg" />
-  </picture>
+  <b>📅 Contribution Calendar</b><br/>
+  <img src="https://ghchart.rshah.org/00F5D4/AdnaNation" alt="Contribution calendar" width="95%" />
 </p>
 
 <br/>
