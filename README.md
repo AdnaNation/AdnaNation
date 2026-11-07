@@ -1,59 +1,119 @@
-<a href="https://www.facebook.com/AdnaNation.Me">
-<img src="https://i.ibb.co/9c6CMgV/Blue-and-White-Gradient-Web-Developer-Linked-In-Article-Cover-Image-1.gif" />
-</a>
-<div align="center">
+<!-- ═══════════════ HEADER ═══════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=230&section=header&text=Azizul%20Islam&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Programmer%20%C2%B7%20Developer%20%C2%B7%20Builder%20of%20Things&descAlignY=58&descSize=18" alt="Azizul Islam banner" />
+</p>
 
- <h1>Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I'm Azizul Islam, A Programmer and Developer <p></p></h1>
-</div>
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=AdnaNation&label=Profile%20views&color=0e75b6&style=flat" alt="shakilahmedatik" /> </span> 
+<p align="center">
+  <a href="https://github.com/AdnaNation">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00F5D4&center=true&vCenter=true&width=640&height=50&lines=Building+fast%2C+clean+web+experiences+%E2%9A%A1;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Learning+Next.js+every+single+day+%F0%9F%8C%B1;Open+to+open-source+collaboration+%F0%9F%A4%9D" alt="Typing animation" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AdnaNation&label=Profile%20views&color=7B2FF7&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/AdnaNation?style=for-the-badge&logo=github&color=00F5D4&labelColor=0d1117" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/AdnaNation?style=for-the-badge&logo=starship&color=7B2FF7&labelColor=0d1117" alt="Stars" />
+</p>
 
-## :mailbox: Reach me out
-
-<br />
-
-[<p align="center">  <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/AdnaNation.Me)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://x.com/AdnaNation27)
-
-<br />
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,css,tailwind,github,figma,git,html,vscode" /><br>
-    <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb,firebase,nextjs" /><br>
-</div>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390  src="https://github-readme-streak-stats.herokuapp.com/?user=AdnaNation&count_private=true&theme=react&border_radius=10" alt="streak stats" />
- <img width=390  src="https://github-readme-stats.vercel.app/api?username=AdnaNation&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-    <br/>
 
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdnaNation&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-<!--<img width=325 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdnaNation&theme=algolia" alt="top langs" />-->
-  
-</div>
+<!-- ═══════════════ WHOAMI ═══════════════ -->
+## 👨‍💻 `whoami`
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AdnaNation&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AdnaNation&limit=5&theme=dark&combine_all_yearly_contributions=true)
+```js
+const azizul = {
+  name: "Azizul Islam",
+  alias: "AdnaNation",
+  role: "Programmer & Developer",
+  currentlyLearning: ["Next.js", "System Design"],
+  lookingFor: "Open-source projects to collaborate on",
+  stack: ["React", "Next.js", "Node.js", "Express", "MongoDB", "Firebase"],
+  philosophy: "Ship small. Learn fast. Make it beautiful.",
+  funFact: "I debug with coffee ☕ and fix with Ctrl+Z",
+};
+```
 
+<br/>
 
- ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+## ⚒️ Tech Arsenal
 
+<p align="center">
+  <b>Frontend</b><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nextjs&theme=dark" alt="Frontend" />
+  <br/><br/>
+  <b>Backend &amp; Database</b><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" alt="Backend" />
+  <br/><br/>
+  <b>Tools</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Tools" />
+</p>
 
+<br/>
 
+<!-- ═══════════════ CURRENT FOCUS ═══════════════ -->
+## 🎯 Current Mission
 
-## :eyes: Current overview
-<hr>
+| | |
+|---|---|
+| 🌱 **Learning** | Next.js &mdash; App Router, Server Components, full-stack patterns |
+| 🤝 **Looking for** | Open-source projects to contribute to &amp; collaborate on |
+| 🛠️ **Building** | Modern, responsive web apps with the MERN + Next.js stack |
+| 💬 **Ask me about** | React, Tailwind CSS, Firebase, web development |
 
-### 🌱 I’m Learning - Next.js. 
-### 👯 I’m looking - To collaborate on open source projects. 
+<br/>
 
+<!-- ═══════════════ STATS ═══════════════ -->
+## 📊 GitHub Analytics
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdnaNation&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnaNation&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top languages" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AdnaNation&theme=tokyonight&hide_border=true&border_radius=12&currStreakLabel=00F5D4&ring=7B2FF7&fire=FF6B6B" alt="Streak stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdnaNation&theme=tokyo-night&hide_border=true&area=true&radius=12&custom_title=Contribution%20Graph" alt="Activity graph" />
+</p>
 
+<br/>
 
+<!-- ═══════════════ SNAKE (needs the GitHub Action, see snake.yml) ═══════════════ -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdnaNation/AdnaNation/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdnaNation/AdnaNation/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/AdnaNation/AdnaNation/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+<br/>
+
+<!-- ═══════════════ CONNECT ═══════════════ -->
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="https://www.facebook.com/AdnaNation.Me">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://x.com/AdnaNation27">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <!-- Add yours below, then remove the comment markers:
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://yourportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-00F5D4?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
+  -->
+</p>
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i> &mdash; John Johnson
+</p>
+
+<!-- ═══════════════ FOOTER ═══════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" alt="Footer wave" />
+</p>
